@@ -1,7 +1,7 @@
 <h1 align="center">Nsovo Ike Nkuna</h1>
 
 <p align="center">
-  <b>Graduate Software Developer</b><br/>
+  <b>Graduate in Computer Science </b><br/>
   📍 Johannesburg, South Africa &nbsp;·&nbsp;
   📧 <a href="mailto:nsovo.ike03@gmail.com">nsovo.ike03@gmail.com</a> &nbsp;·&nbsp;
   📱 +27 73 363 4034
@@ -19,7 +19,7 @@
 
 ## 👋 Who I Am
 
-I am a **recently graduated Software Developer** equipped with strong skills in backend development, API design, cloud computing, and AI. Through my studies, projects, and industry training, I have built a solid foundation for contributing to real-world software teams from day one.
+I am a **graduate in Computer Science** equipped with strong skills in backend development, API design, cloud computing, and AI. Through my studies, projects, and industry training, I have built a solid foundation for contributing to real-world software teams from day one.
 
 I am analytical, collaborative, and eager to grow — ready to bring value to any development team tackling interesting problems.
 
