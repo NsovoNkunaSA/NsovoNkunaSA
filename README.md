@@ -68,19 +68,7 @@ Developed and deployed a fully responsive, interactive web app from scratch. Han
 
 ---
 
-### 🤖 Autonomous JetBot (Robotics Interest Group)
-`Python` `OpenCV` `Machine Learning`
 
-Collaborated on building an autonomous robot using a JetBot platform. Integrated real-time camera feeds with machine learning models for live obstacle avoidance and adaptive navigation using OpenCV.
-
----
-
-## ☁️ Current Training
-
-> **BCX Alibaba ACA Cloud Computing Programme** *(2025 – Present)*
-> Gaining hands-on exposure to cloud infrastructure, distributed systems, and enterprise cloud solutions through an industry-led training programme.
-
----
 
 ## 💼 What I Offer
 
